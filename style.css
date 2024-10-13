@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+p{
+    text-align: center;
+    color: blue;
+}
+body{
+    background-color: white;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20240625/pngtree-two-friends-enjoy-the-beauty-of-a-moonlit-night-together-image_15922623.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50px;
+    
+}
+img{
+    border-image: fill;
+}
+h3{
+    color: red;
+}
